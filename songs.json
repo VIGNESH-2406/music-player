@@ -1,0 +1,24 @@
+{
+  "songs": [
+    {
+      "name": "Pink Floyd - Wish you were here",
+      "path": "music/hello.mp3",
+      "imgs": "images/Imgp.jpg"
+    },
+    {
+      "name": "Daft punk- doin it right",
+      "path": "music/hey.mp3",
+      "imgs": "images/Imgd.jpg"
+    },
+    {
+      "name": "Tame Impala- Love/paranoia",
+      "path": "music/hola.mp3",
+      "imgs": "images/ImgT.jpg"
+    },
+    {
+      "name": "Sting-Shape of My Heart",
+      "path": "music/aloha.mp3",
+      "imgs": "images/Imgs.jpg"
+    }
+  ]
+}
